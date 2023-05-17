@@ -3,7 +3,7 @@ function [coeff1, coeff2, rhs] = sep_conv_diff_eq(m, n, h, p1, p2, p3)
   % model convection-diffusion equation [1, sect. 7, pp. 306-307].
   %
   %  References:
-  %  [1] Hu, Reichel (1992) Krylov-Subspace Methods for the Sylvester Equation.
+  %  [1] Hu, Reichel (1992). Krylov-Subspace Methods for the Sylvester Equation.
   %      Linear Algebra Appl., 172:283–313.
   %      https://doi.org/10.1016/0024-3795(92)90031-5
 

@@ -2,7 +2,7 @@ function [coeff1, coeff2, rhs] = benner04(m, n)
 % Sylvester equation with nonsymmetrix stable coefficients [1, Example 4.1].
 %
 %  References:
-%  [1] Benner (2004) Factorized Solution of Sylvester Equations with
+%  [1] Benner (2004). Factorized Solution of Sylvester Equations with
 %      Applications in Control. In: De Moor, Motmans, Willems, Van Dooren, &
 %      Blondel (eds) Proceedings of the 16th International Symposium on
 %      Mathematical Theory of Networks and Systems.

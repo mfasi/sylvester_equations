@@ -1,4 +1,5 @@
 function [A, B, C] = rail_1357()
+% Lyapunov equation with symmetric coefficient [1].
 %
 % [1] Benner & Saak (2005). A Semi-Discretized Heat Transfer Model for Optimal
 %     Cooling of Steel Profiles. In: Benner, Sorensen, & Mehrmann (eds)

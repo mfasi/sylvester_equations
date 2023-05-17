@@ -1,4 +1,5 @@
-function [A, B, C] = filter2d()
+function [A, B, C] = filter2D()
+% Lyapunov equation with symmetric coefficient [1].
 %
 % [1] Hohlfeld, Bechtold, & Zappe (2005). Tunable Optical Filter. In: Benner,
 %     Sorensen, Mehrmann, (eds) Dimension Reduction of Large-Scale Systems.
