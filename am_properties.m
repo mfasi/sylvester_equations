@@ -1,6 +1,11 @@
 function P = am_properties
 
-  P = {'benner04', {}
+  P = {'bai1', {}
+       'bai2', {}
+       'benner04', {}
+       'blw07', {}
+       'blt09', {}
+       'bqq05', {}
        'ex_rand', {}
        'filter2D', {}
        'rail_1357', {}
