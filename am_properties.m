@@ -11,6 +11,7 @@ function P = am_properties
        'rail_1357', {}
        'sep_conv_diff_eq', {}
        'slicot', {}
+       'wlm13', {}
       };
 
 end
